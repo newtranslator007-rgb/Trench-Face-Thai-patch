@@ -14,8 +14,8 @@ https://pulse-blue.itch.io/trench-face
 3.เข้าเล่นเกมได้ตามปกติ
 
 
-ENG
-Hello! I am an IT student practicing game localization to improve my skills. 
+
+Hello! I am student practicing game localization to improve my skills. 
 Please note that this Thai translation might contain some errors, and I apologize in advance for any inconsistencies.
 
 This project was born out of my passion for Trench Face. I've put my heart into this translation because I truly love the game. 
